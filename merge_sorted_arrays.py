@@ -1,13 +1,5 @@
 
 def merge_one_into_another(first, second):
-    """
-    Args:
-     first(list_int32)
-     second(list_int32)
-    Returns:
-     list_int32
-    """
-    # Write your code here.
     i = len(first)-1
     j = len(first)-1
     k = len(second)-1
